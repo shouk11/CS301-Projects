@@ -1,0 +1,47 @@
+
+
+#Feature 1
+print('What is the type of the following? "1.0" + "2.0" \na) int \nb) float \nc) str \nd) bool \ne) NoneType')
+
+answer = input("Your answer: ")
+print("You answered " + answer + ". " + "The correct answer is'c'")
+
+
+
+#Feature 2 
+print('What is the type of the following? "1.0" + "2.0" \na) int \nb) float \nc) str \nd) bool \ne) NoneType')
+
+answer = input("Your answer: ")
+if answer != "c":
+    print("You answered " + answer + ". " + "The correct answer is'c'")
+
+if answer == "c":
+        print("Congratulations! You got it right.")
+    
+    
+
+
+#Feature 3
+print('What is the type of the following? "1.0" + "2.0" \na) int \nb) float \nc) str \nd) bool \ne) NoneType')
+
+answer = str.strip(str.lower(input("Your answer: ")))
+if answer != "c":
+    print("You answered " + answer + ". " + "The correct answer is'c'")
+
+if answer == "c":
+    print("Congratulations! You got it right.")
+
+
+#Feature 4
+print('What is the type of the following? "1.0" + "2.0" \na) int \nb) float \nc) str \nd) bool \ne) NoneType')
+
+answer = str.strip(str.lower(input("Your answer: ")))
+
+if answer == "c":
+    print("Congratulations! You got it right.")
+
+else:
+    print("Sorry your answer was incorrect")
+
+#Feature 5
+print('What is the type of the following? \n"1" * 2')

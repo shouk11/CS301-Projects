@@ -1,0 +1,36 @@
+    
+            
+q2():
+    print('What is the type of the following?')
+    print('"1" * 2')
+         
+def askquestion(question, answer):
+    counter = 2
+    q1 = q1()
+    q2 = q2()
+
+    while (counter != 0):
+        answer = str.strip(input("Your answer: ")
+
+        for q1:
+            if answer == "a":
+                print('The correct answer is "b"')
+                counter -= 1
+                print("You have this many remaining tries:" , counter)
+
+            elif answer == "b":
+                print('Congratulations! You got it right.')
+                break
+    
+
+            else:
+                print('Sorry your answer was incorrect')
+                counter -= 1
+    return
+        q2
+                    
+        
+    
+
+
+askquestion(q1, )
