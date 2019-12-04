@@ -1,0 +1,243 @@
+{
+  "score": 92.5,
+  "tests": [
+    {
+      "test": 1,
+      "result": "PASS",
+      "weight": 1
+    },
+    {
+      "test": 2,
+      "result": "PASS",
+      "weight": 1
+    },
+    {
+      "test": 3,
+      "result": "PASS",
+      "weight": 1
+    },
+    {
+      "test": 4,
+      "result": "PASS",
+      "weight": 1
+    },
+    {
+      "test": 5,
+      "result": "PASS",
+      "weight": 1
+    },
+    {
+      "test": 6,
+      "result": "PASS",
+      "weight": 1
+    },
+    {
+      "test": 7,
+      "result": "PASS",
+      "weight": 1
+    },
+    {
+      "test": 8,
+      "result": "PASS",
+      "weight": 1
+    },
+    {
+      "test": 9,
+      "result": "value missing for column literacy at index mean",
+      "weight": 1
+    },
+    {
+      "test": 10,
+      "result": "PASS",
+      "weight": 1
+    },
+    {
+      "test": 11,
+      "result": "PASS",
+      "weight": 1
+    },
+    {
+      "test": 12,
+      "result": "PASS",
+      "weight": 1
+    },
+    {
+      "test": 13,
+      "result": "PASS",
+      "weight": 1
+    },
+    {
+      "test": 14,
+      "result": "PASS",
+      "weight": 1
+    },
+    {
+      "test": 15,
+      "result": "PASS",
+      "weight": 1
+    },
+    {
+      "test": 16,
+      "result": "PASS",
+      "weight": 1
+    },
+    {
+      "test": 17,
+      "result": "PASS",
+      "weight": 1
+    },
+    {
+      "test": 18,
+      "result": "PASS",
+      "weight": 1
+    },
+    {
+      "test": 19,
+      "result": "PASS",
+      "weight": 1
+    },
+    {
+      "test": 20,
+      "result": "PASS",
+      "weight": 1
+    },
+    {
+      "test": 21,
+      "result": "PASS",
+      "weight": 1
+    },
+    {
+      "test": 22,
+      "result": "no plot found",
+      "weight": 1
+    },
+    {
+      "test": 23,
+      "result": "PASS",
+      "weight": 1
+    },
+    {
+      "test": 24,
+      "result": "PASS",
+      "weight": 1
+    },
+    {
+      "test": 25,
+      "result": "PASS",
+      "weight": 1
+    },
+    {
+      "test": 26,
+      "result": "value missing for column real GDP (billion) at index 0",
+      "weight": 1
+    },
+    {
+      "test": 27,
+      "result": "PASS",
+      "weight": 1
+    },
+    {
+      "test": 28,
+      "result": "PASS",
+      "weight": 1
+    },
+    {
+      "test": 29,
+      "result": "PASS",
+      "weight": 1
+    },
+    {
+      "test": 30,
+      "result": "PASS",
+      "weight": 1
+    },
+    {
+      "test": 31,
+      "result": "PASS",
+      "weight": 1
+    },
+    {
+      "test": 32,
+      "result": "PASS",
+      "weight": 1
+    },
+    {
+      "test": 33,
+      "result": "PASS",
+      "weight": 1
+    },
+    {
+      "test": 34,
+      "result": "PASS",
+      "weight": 1
+    },
+    {
+      "test": 35,
+      "result": "PASS",
+      "weight": 1
+    },
+    {
+      "test": 36,
+      "result": "PASS",
+      "weight": 1
+    },
+    {
+      "test": 37,
+      "result": "PASS",
+      "weight": 1
+    },
+    {
+      "test": 38,
+      "result": "PASS",
+      "weight": 1
+    },
+    {
+      "test": 39,
+      "result": "PASS",
+      "weight": 1
+    },
+    {
+      "test": 40,
+      "result": "PASS",
+      "weight": 1
+    }
+  ],
+  "lint": [
+    "q1: Consider using more descriptive variable names. You used : 'r'.",
+    "q2: Consider using more descriptive variable names. You used : 'r'.",
+    "q3: Consider using more descriptive variable names. You used : 'r'.",
+    "q4: Consider using more descriptive variable names. You used : 'x'.",
+    "q5: Consider using more descriptive variable names. You used : 'a'.",
+    "q6: Consider using more descriptive variable names. You used : 'x'.",
+    "q6: Consider using more descriptive variable names. You used : 'y'.",
+    "q7: Consider using more descriptive variable names. You used : 'c'.",
+    "q7: Consider using more descriptive variable names. You used : 'd'.",
+    "q9: Consider using more descriptive variable names. You used : 'x'.",
+    "q10: Consider using more descriptive variable names. You used : 'a'.",
+    "q10: Consider using more descriptive variable names. You used : 'x'.",
+    "q10: Consider using more descriptive variable names. You used : 's'.",
+    "q11: Consider using more descriptive variable names. You used : 'b'.",
+    "q11: Consider using more descriptive variable names. You used : 'c'.",
+    "q11: Consider using more descriptive variable names. You used : 'f'.",
+    "q12: Consider using more descriptive variable names. You used : 'z'.",
+    "q12: Consider using more descriptive variable names. You used : 'h'.",
+    "q12: Consider using more descriptive variable names. You used : 'j'.",
+    "q13: Lint Exception: unexpected indent (<unknown>, line 33)",
+    "q14: Lint Exception: unexpected indent (<unknown>, line 27)",
+    "q15: Lint Exception: unexpected indent (<unknown>, line 11)",
+    "q16: Consider using more descriptive variable names. You used : 'x'.",
+    "q19: Consider using more descriptive variable names. You used : 'x'.",
+    "q19: Consider using more descriptive variable names. You used : 'y'.",
+    "q20: Consider using more descriptive variable names. You used : 'x'.",
+    "q21: Consider using more descriptive variable names. You used : 'x'.",
+    "q23: Consider using more descriptive variable names. You used : 'p'.",
+    "q28: Consider using more descriptive variable names. You used : 'g'.",
+    "q31: Consider using more descriptive variable names. You used : 'o'.",
+    "q38: Consider using more descriptive variable names. You used : 'i'.",
+    "q39: Consider using more descriptive variable names. You used : 'm'.",
+    "q39: Consider using more descriptive variable names. You used : 'n'.",
+    "q39: Consider using more descriptive variable names. You used : 't'.",
+    "q40: Consider using more descriptive variable names. You used : 'm'.",
+    "q40: Consider using more descriptive variable names. You used : 'n'."
+  ]
+}
